@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: Founders-Grotesk,Founders-Grotesk,Neue-Montreal;
+    src: url('./assets/fonts/FoundersGrotesk.ttf');
+    src: url('./assets/fonts/FoundersGrotesk-Semibold.ttf');
+}

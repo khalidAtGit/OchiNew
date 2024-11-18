@@ -6,7 +6,7 @@ function LandingPage() {
   return ( 
     <div data-scroll data-scroll-speed="-.4" className='w-full h-screen pt-1'>
       <div className='textstructure mt-52 px-20'>
-        {["WE CREATE", "EYE-OPENING", "PRESENTATIONS"].map((item, index)=>{
+        {["I AM", "KHALID", "KHAN"].map((item, index)=>{
           return (
             <div key={index} className="masker">
               <div className="w-fit flex item-end overflow-hidden">
